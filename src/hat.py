@@ -1,4 +1,4 @@
-
+#this coding is scraping for kids hats query.
 
 
 import time
